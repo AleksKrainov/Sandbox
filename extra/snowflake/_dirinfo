@@ -1,0 +1,10 @@
+-- Connection to Snowflake from Windows terminal --
+snowsql -a PFE-AMERPROD01 -u Aleksandr.Krainov@pfizer.com -r RWD_KRAYNA_ROLE -w PFE_COMMON_WH_S_01 --authenticator externalbrowser
+
+-- With database and schema --
+snowsql -a PFE-AMERPROD01 -u Aleksandr.Krainov@pfizer.com -r RWD_KRAYNA_ROLE -d RWD_PROD -s TEAM_OMOP_VOC_RAW_20250827 -w PFE_COMMON_WH_S_01 –-authenticator externalbrowser
+
+-- Running scripts --
+!source D:\\EPAM\\projects\\jmdc\\extra\\snowflake\\snowsql_load_lookups.sql
+!source D:\\EPAM\\projects\\jmdc\\extra\\snowflake\\snowsql_load_omop_vocabularies.sql
+!source D:\\EPAM\\projects\\jmdc\\extra\\snowflake\\snowsql_load_stages.sql
