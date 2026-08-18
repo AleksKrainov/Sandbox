@@ -1,0 +1,12 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+,"MEDICAL","Plan","HV_BENEFIT_TYPE","Benefit",,"MEDICAL","1970-01-01","2099-12-31",
+,"PHARMACY","Plan","HV_BENEFIT_TYPE","Benefit",,"PHARMACY","1970-01-01","2099-12-31",
+,"Commercial","Payer","HV_PAYER_TYPE","Payer",,"Commercial","1970-01-01","2099-12-31",
+,"Dual","Payer","HV_PAYER_TYPE","Payer",,"Dual","1970-01-01","2099-12-31",
+,"Medicaid","Payer","HV_PAYER_TYPE","Payer",,"Medicaid","1970-01-01","2099-12-31",
+,"Medicare","Payer","HV_PAYER_TYPE","Payer",,"Medicare","1970-01-01","2099-12-31",
+,"Medicare Advantage","Payer","HV_PAYER_TYPE","Payer",,"Medicare Advantage","1970-01-01","2099-12-31",
+,"Medicare FFS","Payer","HV_PAYER_TYPE","Payer",,"Medicare FFS","1970-01-01","2099-12-31",
+,"Other","Payer","HV_PAYER_TYPE","Payer",,"Other","1970-01-01","2099-12-31",
+,"Unknown","Payer","HV_PAYER_TYPE","Payer",,"Unknown","1970-01-01","2099-12-31",
+,"Unspecified","Payer","HV_PAYER_TYPE","Payer",,"Unspecified","1970-01-01","2099-12-31",

@@ -1,0 +1,9 @@
+concept_id_1,concept_id_2,concept_code_1,concept_code_2,vocabulary_id_1,vocabulary_id_2,relationship_id,valid_start_date,valid_end_date,invalid_reason
+,,"MEDICAL","OMOP4822326","HV_BENEFIT_TYPE","Plan","Maps to","1970-01-01","2099-12-31",
+,,"PHARMACY","OMOP4822323","HV_BENEFIT_TYPE","Plan","Maps to","1970-01-01","2099-12-31",
+,,"Commercial","521","HV_PAYER_TYPE","SOPT","Maps to","1970-01-01","2099-12-31",
+,,"Dual","14","HV_PAYER_TYPE","SOPT","Maps to","1970-01-01","2099-12-31",
+,,"Medicaid","2","HV_PAYER_TYPE","SOPT","Maps to","1970-01-01","2099-12-31",
+,,"Medicare","1","HV_PAYER_TYPE","SOPT","Maps to","1970-01-01","2099-12-31",
+,,"Medicare Advantage","1","HV_PAYER_TYPE","SOPT","Maps to","1970-01-01","2099-12-31",
+,,"Medicare FFS","121","HV_PAYER_TYPE","SOPT","Maps to","1970-01-01","2099-12-31",

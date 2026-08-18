@@ -1,0 +1,4 @@
+vocabulary_id,vocabulary_name,vocabulary_reference,vocabulary_version,vocabulary_concept_id
+"HV_BENEFIT_TYPE","HV_BENEFIT_TYPE","customername_datasetname custom vocabulary","HV_BENEFIT_TYPE version 2026-08-13",
+"HV_PAYER_TYPE","HV_PAYER_TYPE","customername_datasetname custom vocabulary","HV_PAYER_TYPE version 2026-08-13",
+"None","OMOP Standardized Vocabularies","OMOP generated","v5.0 27-FEB-26",
